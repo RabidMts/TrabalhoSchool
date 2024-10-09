@@ -4,7 +4,7 @@
 
 Inicie o MySQL Workbench e conecte-se ao seu servidor de banco de dados.
 
-img src = "C:\Users\Aluno\OneDrive\Imagens\Capturas de tela"
+<img src = "C:\Users\Aluno\OneDrive\Imagens\Capturas de tela">
 
 ## Criando um Banco de Dados:
 
